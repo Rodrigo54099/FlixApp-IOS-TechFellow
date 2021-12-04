@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 Overall, part 2 of this flix assignment was very insightful for me in the sesne that I was able to experiment with new features in XCode(collection views, collection view cells) and gain more practive with features I used in the first part of the assignment(table view, table view cells). I did not stumble into any major challenge I could not solve my reweatching a section of the guiding demonstation videos or by conducutiing my own searches online. Even through most of the application was buult with the help of our guided demonstration videos, I feel like I have been able to take away so much and that has allowed me to feel more confident towards learning iOS mobile devleopment
 
 ### GIF #2
-<img src='https://media.giphy.com/media/w2azeX6At1RKabHQUa/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src = 'https://media.giphy.com/media/w2azeX6At1RKabHQUa/giphy.gif' title = 'Video Walkthrough' width = '' alt = 'Video Walkthrough' />
 
 
 
